@@ -1,0 +1,1 @@
+class Program { static void Main(){ new InvoiceCreator().CreateInvoice(); } }
